@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">realmessenger</string>
+    <string name="chooser">send message</string>
+    <string name="send">Send</string>
+</resources>
